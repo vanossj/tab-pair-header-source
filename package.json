@@ -1,0 +1,25 @@
+{
+  "name": "tab-pair-header-source",
+  "main": "./lib/tab-pair-header-source",
+  "version": "0.0.0",
+  "description": "Shorten the tab for open header/source files",
+  "keywords": [
+    "C++",
+    "C",
+    "Objective-C",
+    "Objective-C++",
+    "header",
+    "source",
+    "tab"
+  ],
+  "activationCommands": {
+    "atom-workspace": "tab-pair-header-source:toggle"
+  },
+  "repository": "https://github.com/vanossj/tab-pair-header-source",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
