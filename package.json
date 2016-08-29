@@ -12,9 +12,6 @@
     "source",
     "tab"
   ],
-  "activationCommands": {
-    "atom-workspace": "tab-pair-header-source:toggle"
-  },
   "repository": "https://github.com/vanossj/tab-pair-header-source",
   "license": "MIT",
   "engines": {
