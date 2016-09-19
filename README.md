@@ -2,4 +2,4 @@
 
 Shorten the tab for open header/source files.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](https://cloud.githubusercontent.com/assets/8310169/18635418/08915d68-7e53-11e6-93ab-4cba10293684.gif)
