@@ -1,7 +1,7 @@
 {
   "name": "tab-pair-header-source",
   "main": "./lib/tab-pair-header-source",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shorten the tab for open header/source files",
   "keywords": [
     "C++",
