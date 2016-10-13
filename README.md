@@ -19,15 +19,16 @@ if they have the same information in all capture groups of the same RegExp.
 ```
 module/
   projects/
-    main.c
-    main.h
-    ```
-becomes `[ main.c | .h ]`
+    projects.html
+    projects.js
+    projects.css
+```
+becomes `[ projects.html | .js | .css ]`
 
 ###### RegExp:
-`([^/\\]+?)(?:\.c|\.h)$` Matches Filename, not directory (same as basic mode)
+`([^/\\]+?)(?:\.js|\.html|\.css)$` Matches Filename, not directory (same as basic mode)
 
-`^(.+?)(?:\.c|\.h)$` Matches Filename and directory (same as basic mode with match full path option)
+`^(.+?)(?:\.js|\.html|\.css)$` Matches Filename and directory (same as basic mode with match full path option)
 
 ##### Grouping src and tests
 ```
