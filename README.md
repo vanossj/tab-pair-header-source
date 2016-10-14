@@ -14,6 +14,9 @@ Select the *Advanced Mode Enable* box to use custom RegExp patters to determine 
 List the Regular Expressions in the *Advanced Mode Reg Exp* box. Files will be considered matches
 if they have the same information in all capture groups of the same RegExp.
 
+#### Regular Expression Problems
+If the text entered is not valid RegExp, the input box will have the error highlight. At least one capture group is expected; if the text is valid regex but is does not contain any capture groups the input box will have the warning highlight. Highlight colors depend on your theme.
+
 #### Examples
 ##### Grouping by filename (in same folder)
 ```
